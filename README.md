@@ -9,39 +9,39 @@ This repository contains my hands-on implementations, experiments, and documenta
 
 * Data Ingestion – Batch & streaming ingestion patterns
 
-Data Transformation – Cleaning, validation, enrichment
+* Data Transformation – Cleaning, validation, enrichment
 
-Data Orchestration – Workflow management with Airflow
+* Data Orchestration – Workflow management with Airflow
 
-Data Storage – Lakehouse patterns, schema evolution
+* Data Storage – Lakehouse patterns, schema evolution
 
-Monitoring & Observability – Logging, alerts, and metrics
+* Monitoring & Observability – Logging, alerts, and metrics
 
-Best Practices – Scalability, reliability, and automation
+* Best Practices – Scalability, reliability, and automation
 
 🚀 Tech Stack
 
-Languages: Python, SQL
+* Languages: Python, SQL
 
-Frameworks: Apache Spark, PySpark, Pandas
+* Frameworks: Apache Spark, PySpark, Pandas
 
-Orchestration: Apache Airflow
+* Orchestration: Apache Airflow
 
-Storage: S3, Parquet, Delta Lake
+* Storage: S3, Parquet, Delta Lake
 
-Other Tools: Docker, dbt, Kafka (for streaming examples)
+* Other Tools: Docker, dbt, Kafka (for streaming examples)
 
 📖 Learning Approach
 
-Implement code while reading the book
+* Implement code while reading the book
 
-Write short documentation for each concept
+* Write short documentation for each concept
 
-Extend examples with real-world use cases
+* Extend examples with real-world use cases
 
-Build a personal knowledge base of data engineering best practices
+* Build a personal knowledge base of data engineering best practices
 
 🤝 Contributions
 
-This repo is primarily for self-learning and documentation, but if you’re also exploring the book and want to share improvements, feel free to open a PR or start a discussion.
+* This repo is primarily for self-learning and documentation, but if you’re also exploring the book and want to share improvements, feel free to open a PR or start a discussion.
 
