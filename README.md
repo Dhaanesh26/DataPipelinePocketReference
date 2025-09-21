@@ -7,7 +7,7 @@ This repository contains my hands-on implementations, experiments, and documenta
 
 📑 Contents
 
-Data Ingestion – Batch & streaming ingestion patterns
+* Data Ingestion – Batch & streaming ingestion patterns
 
 Data Transformation – Cleaning, validation, enrichment
 
